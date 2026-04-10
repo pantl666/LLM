@@ -1,4 +1,8 @@
-# Proyecto 8: LLM
-Escribe aquí una breve descripción de tu proyecto
+# Proyecto Tutor Virtual Inteligente
+# Tutor Virtual AI 🤖
+Un mentor educativo que usa LLM (Llama 3.1 vía Groq) para enseñar tecnología y consultas curiosidades
 
-Escribe un instructivo de cómo podemos utilizar tu software (incluye instrucciones para crear entorno virtual)
+## Instalación
+1. `pip install -r requirements.txt`
+2. Configura tu `OPENAI_API_KEY` en un archivo `.env`.
+3. Ejecuta con `python3 tutor.py`.
